@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-10-food-service-2",
+  "name": "goit-js-hw-10-food-service",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mira1702/goit-js-hw-10-food-service-2"
+    "url": "git+https://github.com/Mira1702/goit-js-hw-10-food-service"
   },
   "keywords": [],
   "author": "Miroslava Nikolaienko <kvi2nya@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mira1702/goit-js-hw-10-food-service-2"
+    "url": "https://github.com/Mira1702/goit-js-hw-10-food-service"
   },
-  "homepage": "https://github.com/Mira1702/goit-js-hw-10-food-service-2",
+  "homepage": "https://github.com/Mira1702/goit-js-hw-10-food-service",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
