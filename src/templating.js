@@ -1,5 +1,5 @@
-import itemsTemplate from '../templates/galery-items.hbs';
-import menu from '../menu.json';
+import itemsTemplate from './templates/galery-items.hbs';
+import menu from './menu.json';
 console.log(menu);
 
 const markup = itemsTemplate(menu);
