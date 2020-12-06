@@ -7,11 +7,11 @@
     "start": "webpack-dev-server --env.mode development --config ./webpack/config.js",
     "build": "webpack --env.mode production --config ./webpack/config.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/Mira1702/goit-js-hw-10-food-service"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mira1702/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/Mira1702/goit-js-hw-10-food-service"
   },
   "keywords": [],
   "author": "Miroslava Nikolaienko <kvi2nya@gmail.com>",
