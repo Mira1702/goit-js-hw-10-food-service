@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mira1702/goit-js-hw-10-food-service"
+    "url": "git+https://github.com/Mira1702/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
   "author": "Miroslava Nikolaienko <kvi2nya@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mira1702/goit-js-hw-10-food-service"
+    "url": "https://github.com/Mira1702/goit-js-hw-10-food-service/issues"
   },
   "homepage": "https://github.com/Mira1702/goit-js-hw-10-food-service",
   "devDependencies": {
