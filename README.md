@@ -1,2 +1,2 @@
-# goit-js-hw-10-food-service
-Homework №10
+# goit-js-hw-11-color-switch
+Homework №11
